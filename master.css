@@ -1,0 +1,40 @@
+*{
+  padding:0px;
+  margin:0px;
+}
+.container{
+  width:550px;
+  height:100%;
+  margin:0px auto;
+  margin-top:90px;
+}
+.container h1{
+  font-family: 'Playfair Display', serif;
+  font-size:50px;
+  font-weight: lighter;
+  margin-top: 30px;
+  border-bottom: 1px solid #80808063;
+  padding-bottom: 20px;
+}
+.btns a{
+  font-size: 18px;
+  color:#171717;
+  margin-right: 10px;
+  padding-bottom: 1px;
+  text-decoration: none;
+  border-bottom: 1px solid #80808063;
+}
+.btns a:hover{
+  background-color: #80808063;
+}
+.container p{
+  color:tomato;
+  margin-top: 30px;
+  color: #afafaf;
+}
+#para{
+  color:#313131;
+  font-size:16px;
+  letter-spacing: 1px;
+  line-height: 33px;
+}
