@@ -35,6 +35,28 @@
 #para{
   color:#313131;
   font-size:16px;
-  letter-spacing: 1px;
+  letter-spacing: 0.5px;
   line-height: 33px;
+}
+.projects{
+}
+.project-item {
+  padding:10px;
+  box-sizing: border-box;
+  margin-top: 10px;
+  border-left:1px solid transparent;
+}
+.project-item:hover{
+  cursor:pointer;
+  background-color: #fbfbfb;
+}
+.project-item p{
+    color:black;
+    margin-top:5px;
+}
+.project-item a{
+  font-size:19px;
+  color:black;
+  text-decoration: none;
+  font-weight: bold;
 }
